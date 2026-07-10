@@ -192,11 +192,12 @@ input[type="radio"][name="win-tabs"] {
 
 /* Banner ảnh lớn đầu trang */
 .hero-image {
-    background: linear-gradient(rgba(0,0,0,0.05), rgba(0,0,0,0.15)), url('tu_son_4.jpg') no-repeat center center/cover;
-    height: 240px;
+    background: url('tu_son_4.jpg') no-repeat center center/cover;
+    height: 250px;
     border-radius: 6px;
     margin-bottom: 20px;
     width: 100%;
+}
 }
 
 /* Thiết kế thẻ Card nằm ngang */
